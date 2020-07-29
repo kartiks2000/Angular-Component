@@ -1,2 +1,4 @@
-# Angular-Component
-Angular Component
+# Angular-Component-manually
+Angular Component 
+
+creating components manually
